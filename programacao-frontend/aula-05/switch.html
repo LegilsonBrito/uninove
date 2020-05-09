@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aula 05 - switch</title>
+  </head>
+  <body>
+    <h1>Qual é a fruta?</h1>
+    <h2 id="resposta"></h2>
+    <script>
+      var resposta = document.querySelector("#resposta");
+      var fruta = "Maçã";
+      switch (fruta) {
+        case "Banana":
+          resposta.innerHTML = "A fruta é banana";
+          console.log("A fruta é banana");
+          break;
+        case "Maçã":
+          resposta.innerHTML = "A fruta é maçã";
+          console.log("A fruta é maçã");
+          break;
+        default:
+          resposta.innerHTML = "Não encontrei a fruta";
+          console.log("Não encontrei a fruta");
+          break;
+      }
+    </script>
+  </body>
+</html>
