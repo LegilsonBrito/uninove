@@ -26,3 +26,10 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-04/Aula04-Sintaxe-Operadores-variaveis.pdf.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-04)
+
+## Aula 05 - 08/05/2020
+
+> Rotinas de Programação (Estruturas de decisão e repetição)
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-05/Aula05-rotinas_de_programacao_estruturas-de_decisao_e_repeticao.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-05)
