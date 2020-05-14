@@ -52,3 +52,10 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-07/aula07_06_05_2020_resgatando_informacoes_de_formularios.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-07)
+
+## Aula 08 - 13/05/2020
+
+> Funções, diferença de cookies e sessões
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-08/aula08_13_05_2020_funcoes_diferenca_de_cookies_e_sessoes.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-web/aula-08)
