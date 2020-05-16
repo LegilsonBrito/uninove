@@ -33,3 +33,10 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-05/Aula05-rotinas_de_programacao_estruturas-de_decisao_e_repeticao.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-05)
+
+## Aula 06 - 15/05/2020
+
+> Funções
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-06/Aula06_funcoes.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-06)
