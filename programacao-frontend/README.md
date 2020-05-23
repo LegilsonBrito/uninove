@@ -40,3 +40,10 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-06/Aula06_funcoes.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-06)
+
+## Aula 07 - 22/05/2020
+
+> Date, Objetos e Eventos
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-07/Aula07_Date_Objetos_Eventos.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-07)
