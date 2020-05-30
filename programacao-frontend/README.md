@@ -47,3 +47,10 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-07/Aula07_Date_Objetos_Eventos.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-07)
+
+## Aula 08 - 29/05/2020
+
+> Eventos e Manipulação de arrays
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-08/Aula08_Eventos_e_tratamento_de_arrays.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-08)
