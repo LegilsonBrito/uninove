@@ -54,3 +54,7 @@
 
 - [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-08/Aula08_Eventos_e_tratamento_de_arrays.pdf)
 - [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-08)
+
+## Aula 09 - 05/06/2020
+
+> Atividade - Google Forms
