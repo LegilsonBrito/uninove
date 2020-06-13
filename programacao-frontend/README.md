@@ -58,3 +58,10 @@
 ## Aula 09 - 05/06/2020
 
 > Atividade - Google Forms
+
+## Aula 10 - 12/06/2020
+
+> Requisições
+
+- [Slides](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-10/Aula10_Requisicoes.pdf)
+- [Exercícios](https://github.com/wagnerssouza/uninove/tree/master/programacao-frontend/aula-10)
