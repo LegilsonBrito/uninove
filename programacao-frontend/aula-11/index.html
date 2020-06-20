@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="formulario">
+      <h1>Formulário de contato</h1>
+      <form>
+        <label for="nome">
+          <span>Nome:</span>
+          <input type="text" id="nome" />
+        </label>
+
+        <label for="idade">
+          <span>Idade:</span>
+          <input type="number" id="idade" />
+        </label>
+
+        <label for="">
+          <span>Sexo:</span>
+
+          <label for="masculino">
+            <input type="radio" name="sexo" value="masculino" id="masculino" />
+            Masculino
+          </label>
+
+          <label for="feminino">
+            <input type="radio" name="sexo" value="feminino" id="feminino" />
+            Feminino
+          </label>
+
+          <label for="outros">
+            <input type="radio" name="sexo" value="outros" id="outros" /> Outros
+          </label>
+        </label>
+
+        <label for="estado">
+          <span>Estados:</span>
+          <select name="estado" id="estado">
+            <option value="">Selecione</option>
+            <option value="sp">São Paulo</option>
+            <option value="rj">Rio de Janeiro</option>
+            <option value="mg">Minas Gerais</option>
+            <option value="es">Espirito Santo</option>
+          </select>
+        </label>
+
+        <label>
+          <button class="btn-enviar" type="button" id="btn">
+            Enviar formulário
+          </button>
+        </label>
+      </form>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

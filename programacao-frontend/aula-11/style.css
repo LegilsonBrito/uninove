@@ -1,0 +1,72 @@
+* {
+  font-family: Tahoma, Arial;
+  font-size: 16px;
+}
+.formulario {
+  margin: 0 auto;
+  width: 300px;
+}
+
+label {
+  display: block;
+  margin-bottom: 15px;
+}
+
+label span {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+  width: 300px;
+  padding: 5px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  outline: none;
+  color: #868686;
+}
+
+.btn-enviar {
+  background-color: pink;
+  width: 300px;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #f5a5b3;
+  transition: 0.2s;
+}
+
+.btn-enviar:hover {
+  background-color: #eab6bf;
+}
+
+@media (max-width: 600px) {
+  input[type="text"],
+  input[type="number"],
+  select,
+  .btn-enviar {
+    width: 100%;
+  }
+
+  .formulario {
+    width: auto;
+  }
+}
+
+/*  
+    Seletor poder ser:
+    - Uma tag html: h1
+    - Pode ser uma classe: .texto
+    - Pode ser um id #bloco
+
+    Propriedade pode ser:
+    - color, background, text-align
+
+    Valor pode ser:
+    - #ff0, blue, inline
+
+seletor {
+  propriedade: valor;
+}
+*/
